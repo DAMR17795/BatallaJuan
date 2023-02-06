@@ -261,7 +261,7 @@ public class PestañaRojo extends Stage {
             txtVidaLancha.setText("10");
 
             submarino = (ProgressBar) loader.getNamespace().get("pbVidaSubmarino");
-            ;
+
             txtVidaSubmarino = (Label) loader.getNamespace().get("vidaSubmarino");
             txtVidaSubmarino.setText("30");
 
